@@ -1,8 +1,10 @@
 ## Olá! sou o lukizze
 
-
+- 👨‍💻️ Trabalhando com Hacking e Cyber segurança
+- 📚️ Gostos de livros
 - 
 ### Estatística:
+
 <div>
 <a href="https://github.com/lukiize>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukizze&layout=compact&langs_count=7&theme=dracula"/>
@@ -10,11 +12,17 @@
 </div>
 
 ### Aprendendo:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" margin="10" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" margin="10 "width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" margin="50px" width"=50px" height="50px"/>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-plain.svg" width="50" height="50"/>
+
+                                                                                                           
 ### Contatos:
+                                                                                                         
 <div>
 <a href="https://www.instagram.com/lukizze/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/lukizzee" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
