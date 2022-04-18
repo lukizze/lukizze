@@ -1,5 +1,6 @@
 ## Olá! sou o lukizze
 
+
 - 
 ### Estatística:
 <div>
@@ -9,7 +10,9 @@
 </div>
 
 ### Aprendendo:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" margin="10" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" margin="10 "width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" margin="50px" width"=50px" height="50px"/>
 
 ### Contatos:
 <div>
