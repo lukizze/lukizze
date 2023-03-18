@@ -5,7 +5,7 @@
 ###
 
   ```
-    Me chamo Fellipe! Estou cursando Tecnologia da Informação, aperfeiçoando o meu conhecimento em Bank-End
+    Me chamo Fellipe! Estou cursando Tecnologia da Informação, aperfeiçoando o meu conhecimento em Bank-End.
   ```
 
 ## Contatos:
