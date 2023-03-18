@@ -1,4 +1,4 @@
-<h1 align="center"> Olá! sou o lukizze, seja Bem-Vindo ao meu perfil <h1/>
+<h1 align="center"> Olá! sou o lukizze, seja Bem-Vindo ao meu perfil!<h1/>
 
 - 👨‍💻️ Estudante de Programação
 - 📚️ Gosto de ler
