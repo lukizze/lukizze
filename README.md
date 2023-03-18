@@ -1,9 +1,14 @@
-<h1 align="center"> Olá! sou o lukizze <h1/>
+<h1 align="center"> Olá! sou o lukizze, seja Bem-Vindo ao meu perfil <h1/>
 
 - 👨‍💻️ Estudante de Programação
 - 📚️ Gosto de ler
+###
 
-### Contatos:
+  ```
+    Me chamo Fellipe! Estou cursando Tecnologia da Informação, aperfeiçoando o meu conhecimento em Bank-End
+  ```
+
+## Contatos:
   
 <div>
 <a href = "mailto:lukizzee@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -12,11 +17,11 @@
 <a href="https://steamcommunity.com/id/lukizze/" target="_blank"><img src="https://camo.githubusercontent.com/8f3f8e12a8ab9620b87997aa946c7c5d876396a81295ea1854305920bb002b50/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537465616d2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d737465616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&amp;logo=steam&amp;logoColor=white" style="max-width: 100%;"><a/>
 </div>
   
-  ### Linguagens:
+ ## 💻 | Linguagens:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" windth="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" windth="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   
-### Estatística:
+## 📊 | Estatística:
 
 <div>
 <a href="https://github.com/lukizze>
