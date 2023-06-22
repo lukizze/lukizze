@@ -2,10 +2,9 @@
 
 - 👨‍💻️ Estudante de Programação
 - 📚️ Gosto de ler
-###
 
   ```
-    Me chamo Luiz! Estou cursando Tecnologia da Informação, aperfeiçoando o meu conhecimento em Bank-End.
+   Me chamo Luiz! Estou cursando Tecnologia da Informação, aperfeiçoando o meu conhecimento em Bank-End.
   ```
 
 ## Contatos:
@@ -19,7 +18,8 @@
   
  ## 💻 | Linguagens:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" windth="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" windth="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="5%" height="5%"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="5%" height="5%"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="5%" heigh="5%" />
+
   
 ## 📊 | Estatística:
 
