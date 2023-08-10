@@ -1,8 +1,6 @@
 <a href='https://github.com/lukizze'><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#8e44ad&height=120&section=header"/></a>
 
 <h1 align="center"> Olá! sou o lukizze, seja Bem-Vindo(a) ao meu perfil!<h1/>
-
-- 👨‍💻️ Estudante de Programação
 <br/>
 
   ```
@@ -34,4 +32,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukizze&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#7d3c98&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=120&section=footer"/>
