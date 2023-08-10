@@ -16,12 +16,6 @@
    Me chamo Luiz! Estou cursando Tecnologia da Informação, aperfeiçoando o meu conhecimento em Bank-End.
   ```
 
-<br/>
-
-## Contatos:
-
-
-  
  ## 💻 | Linguagens:
 
 <div align='center'>
