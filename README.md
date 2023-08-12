@@ -6,11 +6,11 @@
 <br>
 
 <p align='center'>
-  <a href="mailto:luizzfellipemonteiro@gmail.com"><img alt='gmail' title='gmail' width='5%' src="https://i.imgur.com/lcKILaI.jpeg" target="_blank"></a>
+  <a href="mailto:luizzfellipemonteiro@gmail.com"><img alt='gmail' title='gmail' width='6%' src="" target="_blank"></a>
   &#8287;&#8287;
-  <a href="https://www.linkedin.com/in/luiz-monteiro-991041232/" target="_blank"><img alt='email' title='email' width='5%' src="https://i.imgur.com/WDOikt4.png"></a>
+  <a href="https://www.linkedin.com/in/luiz-monteiro-991041232/" target="_blank"><img alt='email' title='email' width='6%' src="https://i.imgur.com/WDOikt4.png"></a>
   &#8287;&#8287;
-  <a href="https://discord.com/channels/@me/463326349617266698" target="_blank"><img alt='dicord' title='dicord' width='5%' src="https://i.imgur.com/0gKW1Al.png"><a/>
+  <a href="https://discord.com/channels/@me/463326349617266698" target="_blank"><img alt='dicord' title='dicord' width='6%' src="https://i.imgur.com/0gKW1Al.png"><a/>
 </p>
 
 
