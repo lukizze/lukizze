@@ -3,12 +3,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=FDFEFE&center=true&vCenter=true&width=1000&height=100&lines=Ol%C3%A1!+sou+o+Luiz%2C+seja+Bem-Vindo(a)+ao+meu+perfil!!;Estou+cursando+Desenvolvimento+Web+(Full-Stack))](https://git.io/typing-svg)
 
+<br/>
+
 <p align='center'>
-  <a href="mailto:luizzfellipemonteiro@gmail.com"><img alt='gmail' title='gmail' width='43' src="https://i.imgur.com/lcKILaI.jpeg" target="_blank"></a>
+  <a href="mailto:luizzfellipemonteiro@gmail.com"><img alt='gmail' title='gmail' width='43px' src="https://i.imgur.com/lcKILaI.jpeg" target="_blank"></a>
   &#8287;&#8287;
-  <a href="https://www.linkedin.com/in/luiz-monteiro-991041232/" target="_blank"><img alt='email' title='email' width='5%' height='5%' src="https://i.imgur.com/WDOikt4.png"></a>
+  <a href="https://www.linkedin.com/in/luiz-monteiro-991041232/" target="_blank"><img alt='email' title='email' width='43px' src="https://i.imgur.com/WDOikt4.png"></a>
   &#8287;&#8287;
-  <a href="https://discord.com/channels/@me/463326349617266698" target="_blank"><img alt='dicord' title='dicord' width='5%' height='5%' src="https://i.imgur.com/0gKW1Al.png"><a/>
+  <a href="https://discord.com/channels/@me/463326349617266698" target="_blank"><img alt='dicord' title='dicord' width='43px' src="https://i.imgur.com/0gKW1Al.png"><a/>
 </p>
 
 
@@ -25,8 +27,9 @@
 
 <div>
   <a href="https://github.com/lukizze>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukizze&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukizze&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukizze&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukizze&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  </a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=120&section=footer"/>
