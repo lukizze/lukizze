@@ -13,11 +13,7 @@
   <a href="https://discord.com/channels/@me/463326349617266698" target="_blank"><img alt='discord' title='discord' width='40px' src="https://i.imgur.com/0gKW1Al.png"><a/>
 </p>
 
-
-<br/>
-<br/>
-<br/>
-<br/>
+<br>
 
 # 💻 | Linguagens
 
