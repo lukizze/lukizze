@@ -1,6 +1,12 @@
-<a href='https://github.com/lukizze'><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#8e44ad&height=120&section=header"/></a>
+
+<a href='https://github.com/lukizze'><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=120&section=header"/></a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=FDFEFE&center=true&vCenter=true&width=1000&height=100&lines=Ol%C3%A1!+sou+o+Luiz%2C+seja+Bem-Vindo(a)+ao+meu+perfil!!;Estou+cursando+Desenvolvimento+Web+(Full-Stack))](https://git.io/typing-svg)
+
+
+<div align='center'>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="7%" height="7%"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="7%" height="7%"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width='7%' height='7%'/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="7%" height="7%"/> 
+</div>
 
 <br>
 <br>
@@ -13,20 +19,7 @@
 
 </div>
 
-  
-<br/>
-
-  ```
-   Me chamo Luiz! Estou cursando Tecnologia da Informação, aperfeiçoando o meu conhecimento em Bank-End.
-  ```
-
- ## 💻 | Linguagens:
-
-<div align='center'>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="7%" height="7%" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="7%" height="7%"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width='7%' height='7%'/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="7%" height="7%"/> 
-</div>
-
-## 📊 | Estatística:
+## 📊 | Status
 
 <div>
   <a href="https://github.com/lukizze>
