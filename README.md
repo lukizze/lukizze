@@ -1,6 +1,10 @@
 <a href='https://github.com/lukizze'><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#8e44ad&height=120&section=header"/></a>
 
-<h1 align="center"> Olá! sou o lukizze, seja Bem-Vindo(a) ao meu perfil!<h1/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=FDFEFE&center=true&vCenter=true&width=1000&height=100&lines=Ol%C3%A1!+sou+o+Luiz%2C+seja+Bem-Vindo(a)+ao+meu+perfil!!;Estou+cursando+Desenvolvimento+Web+(Full-Stack))](https://git.io/typing-svg)
+
+<br>
+<br>
+<br>
 
 <div align='center'>
   <a href = "mailto:luizzfellipemonteiro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
