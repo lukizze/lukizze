@@ -6,7 +6,7 @@
 <br>
 
 <p align='center'>
-  <a href="mailto:luizzfellipemonteiro@gmail.com"><img alt='gmail' title='Gmail' width='45px' src="https://i.imgur.com/mFvGtnb.png" target="_blank"></a>
+  <a href="mailto:luizzfellipemonteiro@gmail.com"><img alt='gmail' title='Email' width='45px' src="https://i.imgur.com/mFvGtnb.png" target="_blank"></a>
   &#8287;&#8287;
   <a href="https://www.linkedin.com/in/luiz-monteiro-991041232/" target="_blank"><img alt='linkedin' title='Linkedin' width='39px' src="https://i.imgur.com/WDOikt4.png"></a>
   &#8287;&#8287;
